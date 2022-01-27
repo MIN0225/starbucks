@@ -87,8 +87,8 @@ new Swiper('.awards .swiper', {
   spaceBetween: 30,
   slidesPerView: 5,
   navigation: {
-    prevEls: '.awards .swiper-prev',
-    nextEls: '.awards .swiper-next'
+    prevEl: '.awards .swiper-prev',
+    nextEl: '.awards .swiper-next'
   }
 });
 
